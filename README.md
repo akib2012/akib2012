@@ -1,23 +1,46 @@
-## Hi there 👋
+## 👋 Hi there, I’m **Perbej Bhuiyan Akib**
+### 🚀 Full-Stack MERN Developer | BSc Engineering Graduate (Dec 2025)
 
-### This is MD. Perbej Bhuiyan akib
-#### Full-Stack MERN Developer
 ![Full-Stack MERN Developer](https://i.ibb.co.com/pBxmN4cM/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
-I’m Perbej Bhuiyan Akib, a MERN Stack Developer and BSc Engineering graduate (Dec 2025). I specialize in building scalable, responsive web applications using React, Node.js, MongoDB, and Tailwind CSS. I enjoy solving real-world problems through clean code and modern UI/UX. Always learning and improving my full-stack skills.
+---
 
-🚀 Current Activities
+### 👨‍💻 About Me
+I’m a **Full-Stack MERN Developer** passionate about building **scalable, responsive, and user-centric web applications**. I enjoy solving real-world problems through **clean code** and **modern UI/UX principles**.
 
-Exploring Next.js and Python for advanced full-stack development
+I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new technologies to strengthen my full-stack development skills.
 
-Working on a mental health platform featuring an AI chatbot (Kotha)
+---
 
-Building an online video consultation system for mental health support
+### 🔥 What I’m Currently Doing
+- 🌱 Exploring **Next.js** and **Python** for advanced full-stack development  
+- 🤖 Working on a **mental health platform with an AI chatbot** — *Kotha*  
+- 🧠 Building an **online video consultation system** for mental health support  
+- 🔭 Improving and maintaining this GitHub profile  
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on this page. 
+### 🛠️ Tech Stack & Skills
+**Frontend**
+- React.js, Vue.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3, Tailwind CSS  
 
+**Backend**
+- Node.js, Express.js  
+- MongoDB  
 
+**Tools & Others**
+- Git & GitHub  
+- REST APIs  
+- Responsive Design  
+- Modern UI/UX Practices  
 
+---
+
+### 📌 What I Care About
+- Clean & maintainable code  
+- Performance & scalability  
+- User experience & accessibility  
+- Continuous learning & improvement  
 
