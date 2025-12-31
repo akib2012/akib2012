@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there 👋, This is MD. Perbej Bhuiyan akib
+### This is MD. Perbej Bhuiyan akib
 #### Full-Stack MERN Developer
 ![Full-Stack MERN Developer](https://i.ibb.co.com/pBxmN4cM/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
