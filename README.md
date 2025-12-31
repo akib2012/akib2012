@@ -13,11 +13,16 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-I’m a <strong>Full-Stack MERN Developer</strong> passionate about building
-<strong>scalable, responsive, and user-centric web applications</strong>.
-I enjoy solving real-world problems through <strong>clean code</strong> and
-<strong>modern UI/UX principles</strong>.
+  <span style="display:block; max-width:700px; margin:auto; text-align:left;">
+    🚀 I’m a <strong>Full-Stack MERN Developer</strong> who enjoys building
+    <strong>scalable</strong>, <strong>responsive</strong>, and
+    <strong>user-focused web applications</strong>.
+    <br/><br/>
+    💡 I enjoy transforming real-world problems into elegant solutions using
+    <strong>clean code</strong> and <strong>modern UI/UX practices</strong>.
+  </span>
 </p>
+
 
 <p align="center">
 I’m a <strong>BSc Engineering graduate (Dec 2025)</strong> and continuously learning
