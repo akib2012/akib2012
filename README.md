@@ -27,3 +27,59 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
 - User experience & accessibility  
 - Continuous learning & improvement  
 
+## 👨‍💻 Skills
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+</p>
+
+### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,postman" />
+</p>
+
+### 🧪 Currently Exploring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,python" />
+</p>
+
+---
+
+## 🌐 Social & Professional Links
+
+<p align="left">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=react&hide_border=true" />
+</p>
+
+### 📈 Overall Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+### 🧠 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true" />
+</p>
