@@ -60,8 +60,8 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
   <a href="www.linkedin.com/in/md-perbej-bhuiyan-akib" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="https://www.facebook.com/your-facebook-username" target="_blank">
-  <img src="https://web.facebook.com/akib.bhuiyan.754/" />
+ <a href="https://web.facebook.com/akib.bhuiyan.754/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </p>
 
