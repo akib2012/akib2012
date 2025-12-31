@@ -96,8 +96,10 @@ new technologies to strengthen my full-stack development skills.
 ---
 
 ## 🔥 GitHub Streak
-<p float="left">
+<div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=akib2012&show_icons=true&theme=dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akib2012&theme=dark" width="45%" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=akib2012&theme=dark" width="45%" />
+</div>
+
+
 
