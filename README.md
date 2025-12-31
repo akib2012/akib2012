@@ -54,15 +54,15 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
 ## 🌐 Social & Professional Links
 
 <p align="left">
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/akib2012" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="www.linkedin.com/in/md-perbej-bhuiyan-akib" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+ <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+  <img src="https://web.facebook.com/akib.bhuiyan.754/" />
+</a>
 </p>
 
 ---
