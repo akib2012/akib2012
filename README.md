@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-<p align="center">
+<p align="left">
   <span style="display:block; max-width:700px; margin:auto; text-align:left;">
     🚀 I’m a <strong>Full-Stack MERN Developer</strong> who enjoys building
     <strong>scalable</strong>, <strong>responsive</strong>, and
