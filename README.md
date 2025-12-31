@@ -75,4 +75,8 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
 
 ---
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=akib2012&theme=dark" alt="GitHub Streak" />
+</a>
+
 
