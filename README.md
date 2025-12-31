@@ -20,23 +20,6 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
 
 ---
 
-### 🛠️ Tech Stack & Skills
-**Frontend**
-- React.js, Vue.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3, Tailwind CSS  
-
-**Backend**
-- Node.js, Express.js  
-- MongoDB  
-
-**Tools & Others**
-- Git & GitHub  
-- REST APIs  
-- Responsive Design  
-- Modern UI/UX Practices  
-
----
 
 ### 📌 What I Care About
 - Clean & maintainable code  
