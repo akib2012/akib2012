@@ -61,7 +61,7 @@ I’m a **BSc Engineering graduate (Dec 2025)** and continuously learning new te
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://web.facebook.com/akib.bhuiyan.754/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 </a>
 </p>
 
